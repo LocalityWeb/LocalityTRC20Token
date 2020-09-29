@@ -27,3 +27,4 @@
 
   Support our token by donating TRX or other TRX swappable tokens to the Tron (LocalityCreator) wallet address: TKCNNhSuiTEwo13bc3WKULdde9WfR2sUk4
   The TRX will be used to generate Energy and Bandwidth which are consumed on every transaction created.
+  You may also directly donate the Energy and Bandwidth by freezing the TRX and adding the address as the receiver of them.
